@@ -16,33 +16,50 @@
 ---
 ---
 
-## 📄 Certifications & Career Path
+---
+
+## 🚀 Career
 
 ### 🎓 Education
 - **Dankook University**, B.S. in Mechanical Engineering  
-  *Expected graduation: 2025*
+  *Expected Graduation: 2025*
+
+### 🧠 Current Programs
+- **ROKEY Bootcamp (Doosan Robotics)**  
+  *January 2025 – June 2025*  
+  Focused on Python, Computer Vision, ROS, and real robot projects  
+  > *Top students receive internship and job opportunities*
+
+### 🏁 Robotics & AI Competitions
+- **2024 R-BIZ Challenge** — Dilly Robot Delivery  
+- **3rd Future Automotive Autonomous Driving Competition**  
+  🥉 Bronze Prize (featured on [Dankook News](https://www.dankook.ac.kr/web/kor/dku-today?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=790642))
 
 ---
 
-### 🚀 Career & Programs
+## 📜 Certifications
 
-- 🧠 **ROKEY Bootcamp (Doosan Robotics)** — Jan 2025 ~ Jun 2025 *(In Progress)*  
-  > 6-month intensive program focused on **Python, Computer Vision, ROS, and Real-world Robotics**
+### 🧠 AI & Deep Learning
+- [✔️ Neural Networks and Deep Learning – Coursera (Andrew Ng)](https://coursera.org/verify/H9BAMCA752N8)
+- [✔️ Improving Deep Neural Networks – Coursera](https://coursera.org/verify/H9I7V5AREJVS)
+- [✔️ Structuring Machine Learning Projects – Coursera](https://coursera.org/verify/33WEOVHGXZ0D)
 
-- 🏁 **Participant @ National Robotics Competitions (2023~2024)**
-  - R-BIZ Challenge: Dilly Robot Delivery
-  - Future Automotive Autonomous Driving Competition
+### 🚗 Autonomous Driving (Hyundai NGV)
+- [✔️ Autonomous Driving Perception (Basic)](https://edu.hyundai-ngv.com) *(Jul 2024 – Dec 2024)*
+- [✔️ Autonomous Driving Control, Judgment, Network, and Communication (Basic)](https://edu.hyundai-ngv.com)
+- ✔️ **Workforce Skill Certification** – Control & Decision Making *(Issued by Hyundai Motor Company & Hyundai NGV)*
 
-- 🏫 **Undergraduate Research Assistant** *(Optional: if you have lab or mentor work)*
+### 🔧 Engineering Tools
+- ✔️ Simulink Onramp – MathWorks (100% Completion)
+
+### 🌍 Leadership & Soft Skills
+- ✔️ [Global Leadership Challenge – NSI & UNESCO, Korea Economic Association](https://www.dankook.ac.kr)
 
 ---
 
-### 📜 Certifications & Coursework
+> 📎 Most certificates are available upon request or linked in the repository.
+> Some PDF files are also included in this GitHub project folder: `certifications/`
 
-- 📘 **ROS Basics in 5 Days** – The Construct  
-- 📘 **ROS2 Navigation Stack (NAV2) Course** – The Construct *(Planned/In Progress)*
-- 🤖 **Computer Vision with Python** – Internal Bootcamp Project
-- 🧠 **Deep Learning with YOLOv8** – Custom label training for lane & traffic light detection
 
 ---
 
