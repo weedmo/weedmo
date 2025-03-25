@@ -27,7 +27,7 @@
 ## 📜 Certifications
 
 All certificates and skill validations are available in the following GitHub repository:  
-🔗 [🗂️ View My Certificates Repository »](https://github.com/weedmo/certifications)
+🔗 [🗂️ View My Certificates Repository »]([https://github.com/weedmo/certifications](https://github.com/weedmo/certifications/blob/main/README.md))
 
 > Includes credentials from:
 - Coursera (Deep Learning Specialization by Andrew Ng)
