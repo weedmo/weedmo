@@ -32,7 +32,7 @@ All certificates and skill validations are available in the following GitHub rep
 > Includes credentials from:
 - Coursera (Deep Learning Specialization by Andrew Ng)
 - Hyundai NGV (Autonomous Driving: Perception, Control, Judgement)
-
+- Udemy (ROS2 Navigation Stack [Nav2] for Autonomous Robots)
 ---
 
 ## 📬 Contact
