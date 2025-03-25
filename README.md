@@ -11,9 +11,46 @@
 - 🌱 I’m constantly learning **LiDAR, sensor fusion, and Gazebo simulation**
 - 💡 Interested in **GSoC 2025**: OSRF's GPU LiDAR Plugin Project
 - ✍️ Writing tech blogs (soon!) and building my robot portfolio
-- 📫 How to reach me: **weedmo.dev@gmail.com** *(or whatever 이메일)*
+- 📫 How to reach me: **jjoonmo0212@gmail.com**
 
 ---
+---
+
+## 📄 Certifications & Career Path
+
+### 🎓 Education
+- **Dankook University**, B.S. in Mechanical Engineering  
+  *Expected graduation: 2025*
+
+---
+
+### 🚀 Career & Programs
+
+- 🧠 **ROKEY Bootcamp (Doosan Robotics)** — Jan 2025 ~ Jun 2025 *(In Progress)*  
+  > 6-month intensive program focused on **Python, Computer Vision, ROS, and Real-world Robotics**
+
+- 🏁 **Participant @ National Robotics Competitions (2023~2024)**
+  - R-BIZ Challenge: Dilly Robot Delivery
+  - Future Automotive Autonomous Driving Competition
+
+- 🏫 **Undergraduate Research Assistant** *(Optional: if you have lab or mentor work)*
+
+---
+
+### 📜 Certifications & Coursework
+
+- 📘 **ROS Basics in 5 Days** – The Construct  
+- 📘 **ROS2 Navigation Stack (NAV2) Course** – The Construct *(Planned/In Progress)*
+- 🤖 **Computer Vision with Python** – Internal Bootcamp Project
+- 🧠 **Deep Learning with YOLOv8** – Custom label training for lane & traffic light detection
+
+---
+
+### 🧰 Technical Stack
+> ROS1 / ROS2, Python, C++, LiDAR, Camera, GPS/IMU, YOLOv5~v8, MORAI SIM, RViz, Gazebo, MoveIt2
+
+---
+
 
 ## 🛠️ Technologies & Tools
 
