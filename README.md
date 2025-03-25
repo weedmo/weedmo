@@ -39,11 +39,9 @@ All certificates and skill validations are available in the following GitHub rep
 
 ## 📬 Contact
 
-- 📧 Email: **weedmo.dev@gmail.com**
+- 📧 Email: **jjoonmo0212@gmail.com**
 - 💼 LinkedIn: *(Insert if available)*
-- 🌐 Portfolio / Blog: *(Insert if available)*
+- 🌐 Portfolio / Blog: *https://velog.io/@jjoonmo/posts*
 - 📁 GitHub: [github.com/weedmo](https://github.com/weedmo)
 
 ---
-
-> “Building safe and intelligent autonomous systems — one robot at a time.”  
