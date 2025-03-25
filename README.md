@@ -40,7 +40,7 @@ All certificates and skill validations are available in the following GitHub rep
 ## 📬 Contact
 
 - 📧 Email: **jjoonmo0212@gmail.com**
-- 💼 LinkedIn: *(Insert if available)*
+- 💼 LinkedIn: *[(Insert if available)](https://www.linkedin.com/in/%EC%A4%80%EB%AA%A8-%ED%95%9C-476b77344/)*
 - 🌐 Portfolio / Blog: *https://velog.io/@jjoonmo/posts*
 - 📁 GitHub: [github.com/weedmo](https://github.com/weedmo)
 
