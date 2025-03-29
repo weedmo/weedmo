@@ -40,5 +40,6 @@ All certificates and skill validations are available in the following GitHub rep
 - 📧 Email: **jjoonmo0212@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/%EC%A4%80%EB%AA%A8-%ED%95%9C-476b77344/)
 - 🌐 [Blog](https://velog.io/@jjoonmo/posts)
-
+- 📝 [Portfolio](https://glow-xylocarp-523.notion.site/Road-To-Robotics-Engineer-1af39aa2512b80b18a90c6d54e1a98ac)
+  
 ---
