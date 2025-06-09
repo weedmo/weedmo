@@ -1,15 +1,17 @@
 <h1 align="center">Hi, I'm Joonmo Han 👋</h1>
-<h3 align="center">Aspiring Robotics & AI Engineer | SLAM · Computer Vision · ROS</h3>
+<h3 align="center">Full-Stack Robotics Developer | Mechatronics · AI · ROS2 · SLAM</h3>
 
 ---
 
 ## 🎯 Interest
 
-- 🤖 **Robotics & AI**  
+- 🤖 **Full-Stack Robotics Engineering**  
+  > Hardware-Software Integration | Mechanical Design + AI + ROS2  
 - 🗺️ **SLAM (Simultaneous Localization and Mapping)**  
-- 👁️ **Computer Vision**  
-- 📡 Sensor Fusion, Navigation, and Real-time Perception  
-- 🧪 Always exploring projects that combine **ROS, LiDAR, and Deep Learning**
+- 👁️ **Computer Vision & Perception**  
+- 📡 Sensor Fusion, Real-time Navigation, Behavior Planning  
+- 🧠 **Deep Learning for Robotics**  
+- 🛠️ From URDF & Simulation to Real Robot Control
 
 ---
 
