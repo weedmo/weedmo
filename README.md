@@ -21,7 +21,7 @@
   *Expected Graduation: 2025*
 
 - 🤖 **ROKEY Bootcamp (Doosan Robotics)**  
-  *Jan 2025 – Jun 2025 (In Progress)*  
+  *Jan 2025 – Jun 2025*  
   > 6-month intensive robotics program focused on Python, Computer Vision, ROS, and hands-on robot projects
 
 ---
