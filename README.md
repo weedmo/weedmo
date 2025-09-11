@@ -16,15 +16,29 @@
 ---
 
 ## 🚀 Career
-🎓 Dankook University, B.S. in Mechanical Engineering
 
-Expected Graduation: 2025
+---
 
-🤖 ROKEY Bootcamp (Doosan Robotics) Jan 2025 – Jun 2025 > 6-month intensive robotics program focused on Python, Computer Vision, ROS, and hands-on robot projects
+### 👩‍💻 Alchera Inc.
+* Jul 2025 – Dec 2025
+* VLA (Vision-Language-Action) Data Engineer
+* Collaborated with Samsung Research on large-scale robot dataset construction.
+* Maintained H/W, S/W, and designed scenarios for the RB-Y1 mobile manipulator.
+* Gained experience in VLA-based robot control and data management for embodied AI.
 
-Alchera Inc., Vision-Language-Action Data Manager
+---
 
-Jul 2025 – Dec 2025 (Participating) > Managed the entire VLA dataset construction process in collaboration with Samsung Research. Actively involved in scenario design, hardware/software maintenance for the RB-Y1 robot, and quality assurance for data collection.
+### 🤖 ROKEY Bootcamp (Doosan Robotics)
+* Jan 2025 – Jun 2025
+* 6-month intensive robotics program.
+* Specialized in Python, Computer Vision, and ROS.
+* Developed practical skills in robot control and application development.
+
+---
+
+### 🎓 Dankook University
+* B.S. in Mechanical Engineering, Expected 2025
+
 
 
 ---
