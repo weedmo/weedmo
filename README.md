@@ -13,14 +13,13 @@
 - 🧠 **Deep Learning for Robotics**  
 - 🛠️ From URDF & Simulation to Real Robot Control
 
----
 
 ## 🚀 Career
 
 ---
 
 ### 👩‍💻 Alchera Inc.
-* Jul 2025 – Dec 2025
+* Jul 2025 – ing
 * VLA (Vision-Language-Action) Data Engineer
 * Collaborated with Samsung Research on large-scale robot dataset construction.
 * Maintained H/W, S/W, and designed scenarios for the RB-Y1 mobile manipulator.
@@ -37,7 +36,7 @@
 ---
 
 ### 🎓 Dankook University
-* B.S. in Mechanical Engineering, Expected 2025
+* B.S. in Mechanical Engineering, Expected 2026
 
 
 
