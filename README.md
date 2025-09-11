@@ -15,7 +15,7 @@
 
 ---
 
-##🚀 Career
+## 🚀 Career
 🎓 Dankook University, B.S. in Mechanical Engineering
 
 Expected Graduation: 2025
