@@ -1,63 +1,7 @@
-<h1 align="center">Hi, I'm Joonmo Han 👋</h1>
-<h3 align="center">Full-Stack Robotics Developer | Mechatronics · AI · ROS2 · SLAM</h3>
+### Hi, I'm Joonmo Han 👋
 
----
+Robotics data engineer — building data pipelines and collection systems for robot learning.
 
-## 🎯 Interest
+Interested in robot learning data, data recipes, and simulation.
 
-- 🤖 **Full-Stack Robotics Engineering**  
-  > Hardware-Software Integration | Mechanical Design + AI + ROS2  
-- 🗺️ **SLAM (Simultaneous Localization and Mapping)**  
-- 👁️ **Computer Vision & Perception**  
-- 📡 Sensor Fusion, Real-time Navigation, Behavior Planning  
-- 🧠 **Deep Learning for Robotics**  
-- 🛠️ From URDF & Simulation to Real Robot Control
-
-
-## 🚀 Career
-
----
-
-### 👩‍💻 Alchera Inc.
-* Jul 2025 – ing
-* VLA (Vision-Language-Action) Data Engineer
-* Collaborated with Samsung Research on large-scale robot dataset construction.
-* Maintained H/W, S/W, and designed scenarios for the RB-Y1 mobile manipulator.
-* Gained experience in VLA-based robot control and data management for embodied AI.
-
----
-
-### 🤖 ROKEY Bootcamp (Doosan Robotics)
-* Jan 2025 – Jun 2025
-* 6-month intensive robotics program.
-* Specialized in Python, Computer Vision, and ROS.
-* Developed practical skills in robot control and application development.
-
----
-
-### 🎓 Dankook University
-* B.S. in Mechanical Engineering, Expected 2026
-
-
-
----
-
-## 📜 Certifications
-
-All certificates and skill validations are available in the following GitHub repository:  
-🔗 [🗂️ View My Certificates Repository »](https://github.com/weedmo/certifications)
-
-> Includes credentials from:
-- Coursera (Deep Learning Specialization by Andrew Ng)
-- Hyundai NGV (Autonomous Driving: Perception, Control, Judgement)
-- Udemy (ROS2 Navigation Stack [Nav2] for Autonomous Robots)
----
-
-## 📬 Contact
-
-- 📧 Email: **jjoonmo0212@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/%EC%A4%80%EB%AA%A8-%ED%95%9C-476b77344/)
-- 🌐 [Blog](https://velog.io/@jjoonmo/posts)
-- 📝 [Portfolio](https://glow-xylocarp-523.notion.site/Road-To-Robotics-Engineer-1af39aa2512b80b18a90c6d54e1a98ac)
-  
----
+[Resume](https://weedmo.github.io/resume-generator-nextjs/) · [LinkedIn](https://www.linkedin.com/in/joonmo-han-476b77344/) · jjoonmo0212@gmail.com
